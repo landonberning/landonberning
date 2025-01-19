@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="left">
+<div> 
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,nodejs,mongodb,vercel,express,css" />
+</div>
+</h1>
+<img align="right" style="padding-bottom:12px;" src="https://lanyard.cnrad.dev/api/1313004147540365353?theme=dark&hideDecoration=true&showDisplayName=false&borderRadius=10px&bg=0d1117&idleMessage=Currently%20doing%20nothing"></img>
+
 
 <!--
 **landonberning/landonberning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
