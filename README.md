@@ -3,7 +3,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,ts,js,nodejs,mongodb,vercel,express,css" />
 </div>
 </h1>
-<img align="right" style="padding-bottom:12px;" src="https://lanyard.cnrad.dev/api/1313004147540365353?theme=dark&hideDecoration=true&showDisplayName=false&borderRadius=10px&bg=0d1117&idleMessage=Currently%20doing%20nothing"></img>
+<img align="left" style="padding-bottom:12px;" src="https://lanyard.cnrad.dev/api/1313004147540365353?theme=dark&hideDecoration=true&showDisplayName=false&borderRadius=10px&bg=0d1117&idleMessage=Currently%20doing%20nothing"></img>
 
 
 <!--
